@@ -1,0 +1,8 @@
+>--- Question 1
+     Either you find the wanted thing in the list or when you reach length one in the list. You either have the number and you return it back up through the recursion or you return None
+>--- Question 2 
+     Depending on if its bigger or smaller call the function again with the halved list and feed the number along with it
+>--- Question 3
+     Define it what the function calls that will be the default value of it. Then if the number is on the left half of the list change the pointer to the smallest index in that halved list
+>--- Question 4
+     It would not take many times no less than eight times probably regardless of size because each time it splits the list down and down, this is much more efficient than if you were to loop through each value in the list which will happen depending on how many times it would happen
